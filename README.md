@@ -1,5 +1,5 @@
 # Netflix-Clone Website
-This project involves a simple clone of Netflix website. It was created by applying modern web design techniques. It features a sleek and modern design with smooth transitions. The user interface is intuitive and user-friendly, ensuring a seamless browsing experience. Additionally, the site is fully responsive, adapting gracefully to various screen sizes and devices.
+This project involves a simple clone of Netflix website. It was created by applying modern web design techniques. It features a sleek and modern design with smooth transitions. The user interface is intuitive and user-friendly, ensuring a seamless browsing experience. Additionally, the site is responsive, adapting gracefully to various screen sizes and devices.
 
 ## Technologies
 
